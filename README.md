@@ -64,6 +64,7 @@ If you're interested in frontend development or would like to collaborate on exc
 
 ## 🔍  Where to find me
 
+[<img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://t.me/a10ney)
 
 
 [tech_tools_anchor]: #bonjour--
