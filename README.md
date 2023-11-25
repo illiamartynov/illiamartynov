@@ -27,7 +27,8 @@ If you're interested in frontend development or would like to collaborate on exc
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-[<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=red" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=orange" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Sql-282C34?logo=mysql&logoColor=orange" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
 
