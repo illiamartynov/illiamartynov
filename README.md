@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a 17-year-old student studying Computer Science at the Polish-Japanese Academy of Information Technology in Warsaw. Currently, I'm pursuing my passion for frontend development and aiming to become a skilled Frontend Developer.
+I'm a 18-year-old student studying Computer Science at the Polish-Japanese Academy of Information Technology in Warsaw. Currently, I'm pursuing my passion for frontend development and aiming to become a skilled Frontend Developer.
 
 - 🎓 Education: Studying Computer Science at the Polish-Japanese Academy of Information Technology.
 - 💻 Interests: Frontend development, web design, and creating user-friendly experiences.
